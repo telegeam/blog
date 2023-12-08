@@ -2,7 +2,7 @@
 #  User configuration
 # -----------------------------------------------------------------------------
 
-title:               TheoryDB
+title:               免费节点 free node
 
 # The unique resource location of your page.
 # Set to `https://<username>.github.io` when hosting on GitHub Pages
@@ -23,7 +23,7 @@ description:         >
 # This should be the same author as first entry in `_data/authors.yml`
 author:
   name:              min
-  email:             theorydb@gmail.com
+  email:           1@gmail.com
 
 # Fallback image and color
 image:               /assets/img/main_left.jpg
@@ -44,14 +44,14 @@ google_fonts:        Lato
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-google_analytics:    UA-137374202-1
+google_analytics:    
 
 # Setting a disqus shortname will enable the comment section on pages with `comments: true` in the front matter
 disqus: True
-disqus_shortname:    theorydb
+disqus_shortname:     免费节点 free node
 
 # This text will appear in the footer of every page. Markdown enabled.
-copyright:           '&copy; 2019.04. by theorydb'
+copyright:           '&copy; 2019.04. by  免费节点 free node'
 
 # Format of the permalinks
 permalink:           pretty
